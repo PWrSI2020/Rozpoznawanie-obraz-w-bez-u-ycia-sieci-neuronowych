@@ -1,0 +1,1 @@
+# Rozpoznawanie-obraz-w-bez-u-ycia-sieci-neuronowych
